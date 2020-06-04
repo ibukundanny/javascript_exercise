@@ -10,7 +10,7 @@ function subtract (num1, num2) {
 
 //multiply: Should be able to multiply with precision
 function multiply(num1, num2) {
-  return ;
+  return num1 * num2;
 }
 
 //parseInt: should use parseInt correctly to convert strings to integer numbers
