@@ -6,7 +6,7 @@
  * indexoff(arr, 3); should return the index 2
  */
 function indexOf(arr, item) {
-  return ;
+  return arr.indexOf(item); 
 }
 
 // Sum: you should be able to sum the items of an array
