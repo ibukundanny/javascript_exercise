@@ -1,0 +1,17 @@
+{
+  "name": "js-assessment",
+  "description": "A test-driven assessment of JavaScript skills",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "./node_modules/.bin/eslint src/**/*.js",
+    "test": "./node_modules/.bin/jest"
+  },
+  "dependencies": {
+    "@types/jest": "^25.2.2",
+    "jest": "^26.0.1",
+    "underscore": "1.8.x"
+  },
+  "devDependencies": {
+    "eslint": "^2.8.0"
+  }
+}
