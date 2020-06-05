@@ -22,7 +22,7 @@ function capitalize(str) {
 // splitString: should divide a string into substrings and return an array
 // Example: "Jane,Doe,21"  =>  [ "Jane", "Doe", "21" ]
 function splitString(str, splitAt = `,`) {
-  return ;
+  return str.split(splitAt);
 }
 module.exports = {
   reverseString,
