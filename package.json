@@ -9,7 +9,7 @@
   "dependencies": {
     "@types/jest": "^25.2.2",
     "jest": "^26.0.1",
-    "underscore": "1.8.x"
+    "underscore": "1.12.x"
   },
   "devDependencies": {
     "eslint": "^2.8.0"
